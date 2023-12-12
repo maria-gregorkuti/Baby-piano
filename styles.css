@@ -1,0 +1,125 @@
+body {
+  text-align: center;
+  background-color: #7ed957cb;
+}
+
+
+footer {
+  color: #4F3228;
+  font-family: sans-serif;
+}
+
+
+.C {
+  background-image: url("./images/betuNelkul/1.png");
+  background-size: cover;
+  /* Resize the background image to cover the entire container */
+}
+
+.D {
+  background-image: url("./images/betuNelkul/2.png");
+  background-size: cover;
+  /* Resize the background image to cover the entire container */
+
+}
+
+.E {
+  background-image: url("./images/betuNelkul/3.png");
+  background-size: cover;
+  /* Resize the background image to cover the entire container */
+
+}
+
+.F {
+  background-image: url("./images/betuNelkul/4.png");
+  background-size: cover;
+  /* Resize the background image to cover the entire container */
+
+}
+
+.G {
+  background-image: url("./images/betuNelkul/5.png");
+  background-size: cover;
+  /* Resize the background image to cover the entire container */
+
+}
+
+.A {
+  background-image: url("./images/betuNelkul/6.png");
+  background-size: cover;
+  /* Resize the background image to cover the entire container */
+
+}
+
+.H {
+  background-image: url("./images/betuNelkul/7.png");
+  background-size: cover;
+  /* Resize the background image to cover the entire container */
+
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.piano {
+  outline: none;
+  border: 10px solid #FFEACA;
+  font-size: 4rem;
+  font-family: 'Arvo', cursive;
+  line-height: -2;
+  font-weight: 900;
+  color: #4F3228;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  text-align: center;
+  margin: 5px;
+  background-color: #FFEACA;
+}
+
+.girl {
+  width: 350px;
+  height: 350px;
+  padding: 0px;
+  margin: 0px;
+}
+
+h1 {
+  padding: 0px 0px 0px 0px;
+
+  color: #FFEACA;
+  font-family: "Arvo", cursive;
+  font-size: 6rem;
+  text-shadow: 2px 2px #FF9686;
+}
+
+.white {
+  background-color: white;
+}
+
+@media screen and (min-width: 1419px) {
+  h1 {
+    margin-left: 65px;
+  }
+
+  .girl {
+    margin-right: 120px;
+  }
+
+  .piano {
+    margin: 15px;
+  }
+}
